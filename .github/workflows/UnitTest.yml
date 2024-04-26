@@ -1,0 +1,25 @@
+name: 'Unit Test'
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  unit_test:
+    runs-on: ubuntu-latest
+    permissions: write-all
+    steps:
+      - name: Install dependecies
+        run: sudo apt-get update && sudo apt-get install cmake libgtest-dev libboost-all-dev -y
+      - name: Get repository code
+        uses: actions/checkout@v3
+        with:
+          submodules: true
+      - name: Build project
+        run: |
+          cmake .
+          cmake --build . --config Release
+      - name: Test project
+        run: ctest
