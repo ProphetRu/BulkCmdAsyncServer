@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structICommand.html" title="An interface for a command." alt="" coords="5,31,91,57"/>
+<area shape="rect" id="node2" href="$structCommandBlock.html" title="A command block that contains a list of commands and a bulk value." alt="" coords="139,5,253,32"/>
+<area shape="rect" id="node3" href="$structCommandLog.html" title="A command log that contains a timestamp and a list of commands." alt="" coords="145,56,247,83"/>
+<area shape="rect" id="node4" href="$structSharedCmd.html" title="A shared command class that extends the CommandLog class and adds atomic flags for console and file c..." alt="" coords="301,56,392,83"/>
+</map>

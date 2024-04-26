@@ -1,0 +1,3 @@
+<map id="CommandHandler" name="CommandHandler">
+<area shape="rect" id="node1" title="A command handler class that processes command blocks and logs them asynchronously." alt="" coords="5,5,132,83"/>
+</map>

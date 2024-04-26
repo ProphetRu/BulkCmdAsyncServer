@@ -1,0 +1,4 @@
+<map id="CommandBlock" name="CommandBlock">
+<area shape="rect" id="node1" title="A command block that contains a list of commands and a bulk value." alt="" coords="5,175,145,296"/>
+<area shape="rect" id="node2" href="$structICommand.html" title="An interface for a command." alt="" coords="20,5,131,127"/>
+</map>

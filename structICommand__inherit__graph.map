@@ -1,0 +1,6 @@
+<map id="ICommand" name="ICommand">
+<area shape="rect" id="node1" title="An interface for a command." alt="" coords="99,5,209,127"/>
+<area shape="rect" id="node2" href="$structCommandBlock.html" title="A command block that contains a list of commands and a bulk value." alt="" coords="5,182,145,303"/>
+<area shape="rect" id="node3" href="$structCommandLog.html" title="A command log that contains a timestamp and a list of commands." alt="" coords="169,175,299,311"/>
+<area shape="rect" id="node4" href="$structSharedCmd.html" title="A shared command class that extends the CommandLog class and adds atomic flags for console and file c..." alt="" coords="173,359,295,495"/>
+</map>

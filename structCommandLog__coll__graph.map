@@ -1,0 +1,4 @@
+<map id="CommandLog" name="CommandLog">
+<area shape="rect" id="node1" title="A command log that contains a timestamp and a list of commands." alt="" coords="5,175,135,311"/>
+<area shape="rect" id="node2" href="$structICommand.html" title="An interface for a command." alt="" coords="15,5,125,127"/>
+</map>
